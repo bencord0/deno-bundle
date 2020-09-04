@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "DOM",
+            "deno.ns"
+        ],
+        "strict": true
+    }
+}
